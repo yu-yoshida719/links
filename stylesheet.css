@@ -1,1 +1,8 @@
+header{
+  background-color:green;
+}
+header h1{color:white;}
+.news-a{list-style: none; padding: 0 0; margin-bottom:0;}
+.news-b{list-style: none; padding: 0 0}
+.x{width:50%;}
 
