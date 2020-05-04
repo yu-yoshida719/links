@@ -2,7 +2,11 @@ header{
   background-color:green;
 }
 header h1{color:white;}
-.news-a{list-style: none; padding: 0 0; margin-bottom:0;}
-.news-b{list-style: none; padding: 0 0}
-.x{width:50%;}
-
+.heading{font-size: 25px; padding-bottom: 0px; }
+.a{margin-left: 25px; margin-top: 5px;}
+.b{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
+.c{margin-left: 25px; margin-bottom: 5px; margin-top: 20px;}
+.d{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
+.e{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
+.f{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
+.g{margin: 6px 25px;}
