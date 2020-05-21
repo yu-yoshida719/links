@@ -3,7 +3,7 @@ header{
 }
 header h1{color:white;}
 .heading{font-size: 25px; padding-bottom: 0px; }
-.a{margin-left: 25px; margin-top: 5px;}
+.a{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .b{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .c{margin-left: 25px; margin-bottom: 5px; margin-top: 20px;}
 .e{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
