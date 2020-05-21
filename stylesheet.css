@@ -1,7 +1,9 @@
+body{background-color: #fdeff5}
 header{
-  background-color:green;
+  background-color:#f7c8ce;
+  color:#6fba2c;
+  text-align:center;
 }
-header h1{color:white;}
 .heading{font-size: 25px; padding-bottom: 0px; }
 .a{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .b{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
