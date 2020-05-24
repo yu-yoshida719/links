@@ -6,7 +6,7 @@ header{
   color:#6fba2c;
   text-align:center;
 }
-.heading{font-size: 25px; padding-bottom: 0px; }
+.heading{font-size: 25px; padding-bottom: 0px; padding-right: 100px;}
 .a{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .b{margin-left: 25px; margin-top: 5px; margin-bottom: 5px;}
 .c{margin-left: 25px; margin-bottom: 5px; margin-top: 20px;}
@@ -24,7 +24,6 @@ a{
   display: inline-block;
   transition: .3s;
 }
-
 a::after {
   position: absolute;
   bottom: 0;
@@ -36,7 +35,9 @@ a::after {
   transition: .3s;
   transform: translateX(-50%);
 }
-
 a:hover::after{
   width: 100%;
+}
+.heading{
+  background: linear-gradient(transparent 70%, #d6e9ca 70%);
 }
