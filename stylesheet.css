@@ -1,4 +1,6 @@
-body{background-color: #fdeff5}
+body{
+  background-color: #fdeff5
+}
 header{
   background-color:#f7c8ce;
   color:#6fba2c;
@@ -16,3 +18,25 @@ header{
 .i{margin-left:25px; margin-top:5px; margin-bottom:5px;}
 .j{margin-left:25px; margin-top:5px; margin-bottom:5px;}
 .li{width:33%; float:left;}
+a{text-decoration: none;}
+a{
+  position: relative;
+  display: inline-block;
+  transition: .3s;
+}
+
+a::after {
+  position: absolute;
+  bottom: 0;
+  left: 50%;
+  content: '';
+  width: 0;
+  height: 2px;
+  background-color: #31aae2;
+  transition: .3s;
+  transform: translateX(-50%);
+}
+
+a:hover::after{
+  width: 100%;
+}
