@@ -1,9 +1,9 @@
 body{
-  background-color: #fdeff5
+  background-color: #E0FAA3
 }
 header{
-  background-color:#f7c8ce;
-  color:#6fba2c;
+  background-color:#436AEA;
+  color:#56D958;
   text-align:center;
 }
 .heading{font-size: 25px; padding-bottom: 0px; padding-right: 100px;}
@@ -39,5 +39,5 @@ a:hover::after{
   width: 100%;
 }
 .heading{
-  background: linear-gradient(transparent 70%, #d6e9ca 70%);
+  background: linear-gradient(transparent 70%, #A0DEFB 70%);
 }
